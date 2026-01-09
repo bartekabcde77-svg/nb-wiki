@@ -34,7 +34,7 @@ Tym razem Asmal zleca nam zabicie Canthara. Po 22 siedzi on na ławce za jego st
 ## Dług kupca
 __Zleca: Asmal__
 
-Asmal każe nam odzyskać dług od Nigela w karczmie Martwa Harpia. Idziemy do Nigela i możemy go zabić albo mu pomóc (polecam tę drugą opcję). Dowiadujemy się od niego, że został okradziony przez bandytów, którzy siedzą w jaskini z teleporterem obok wschodniej bramy Khorinis. Zabijamy ich, a sakiewkę oddajemy Nigelowi, który udaje się na farmę Onara. Gadamy z nim jeszcze raz i zwróci on nam należność, a także będzie z nami handlował. Zdecydowanie bardziej opłaca się zostawić Nigela przy życiu.
+Asmal każe nam odzyskać dług od Nigela w karczmie Martwa Harpia. Idziemy do Nigela i możemy go zabić albo mu pomóc (polecam tę drugą opcję). Dowiadujemy się od niego, że został okradziony przez bandytów, którzy siedzą w jaskini z teleporterem obok wschodniej bramy Khorinis. Zabijamy ich, a sakiewkę oddajemy Asmalowi, który udaje się na farmę Onara. Gadamy z nim jeszcze raz i zwróci on nam należność, a także będzie z nami handlował. Zdecydowanie bardziej opłaca się zostawić Nigela przy życiu.
 
 ## Przyjaciel z dzieciństwa
 __Zleca: Asmal__
